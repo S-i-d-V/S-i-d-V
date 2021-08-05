@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 Currently learning C and other stuff at @42School PARIS.</br>
-![Screenshot](Capture.jpg)</br>
+<img src="https://user-images.githubusercontent.com/54635585/128422284-1f5ec006-e7fc-4fc0-9bf3-5dba6e56a94c.JPG" width="90%"></img></br>
 U can contact me here : utheveny42@gmail.com
