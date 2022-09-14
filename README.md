@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">A french 42 Paris student.</h3>
 
-- 🌱 I’m currently learning **C, C++, web programming and designing**
+- 🌱 I’m currently learning **C, C++, and web frameworks (Actually nest and angular)**
 
 - 📫 How to reach me **utheveny42@gmail.com**
 
