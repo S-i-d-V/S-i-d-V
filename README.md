@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/S-i-d-V/)
 
-- 📫 How to reach me **contact@ugotheveny.dev**
+- 📫 How to reach me **contact@ugotheveny.dev** or [Linkedin](https://www.linkedin.com/in/ugo-theveny/)
 
 - 📝 I will post link to my projects on [www.ugotheveny.dev](www.ugotheveny.dev)
 
